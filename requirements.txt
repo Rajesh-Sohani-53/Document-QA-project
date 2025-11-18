@@ -1,9 +1,11 @@
 streamlit
-langchain==0.1.20
-langchain-community==0.0.28
-langchain-openai==0.0.7
+
 sentence-transformers
 faiss-cpu
 redis
 numpy
 pypdf
+
+langchain==0.0.350
+langchain-community==0.0.10
+langchain-openai==0.1.0
