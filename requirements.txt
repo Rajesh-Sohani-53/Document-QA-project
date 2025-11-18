@@ -4,5 +4,15 @@ requests
 streamlit_option_menu
 langchain_community
 langchain_openai
+streamlit
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+faiss-cpu
+redis
+numpy
+pypdf
+
 
 
