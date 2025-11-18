@@ -3,4 +3,6 @@ pillow
 requests
 streamlit_option_menu
 langchain_community
+langchain_openai
+
 
